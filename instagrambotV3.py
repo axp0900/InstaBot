@@ -2,8 +2,8 @@ from instapy import InstaPy
 from instapy import smart_run
 import random
 
-insta_username = 'ani.pappu'
-insta_password = 'aniaw2004'
+insta_username = 'username'
+insta_password = 'password'
 
 # get a session!
 session = InstaPy(username=insta_username,
